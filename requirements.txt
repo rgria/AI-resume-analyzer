@@ -1,0 +1,6 @@
+flask
+openai
+python-dotenv
+pdfminer.six
+sentence-transformers
+faiss-cpu
